@@ -7,9 +7,8 @@
 - 🌱 I’m currently learning Javascript and Kotlin ❤️
 - 😄 Pronouns: (er'sky) 🤔
 - ⚡ Fun fact: can swim without glasses 😂
-- 💎 I love beautifull software 👌
+- 💎 I like beautifull software 👌
 
-**stat**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomorisakura&layout=compact)
 
