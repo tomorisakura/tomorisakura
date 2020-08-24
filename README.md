@@ -2,7 +2,7 @@
 
 
 **tomorisakura/tomorisakura**
-
+<!--
 - 🔭 I’m Collage Student
 - 🌱 I’m currently learning Javascript and Kotlin ❤️
 - 😄 Pronouns: (er'sky) 🤔
@@ -10,7 +10,7 @@
 - 💎 I like beautifull software 👌
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomorisakura&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomorisakura&layout=compact) --!>
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
