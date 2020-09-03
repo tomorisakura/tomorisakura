@@ -5,7 +5,7 @@
 
 - 🔭 I’m Collage Student
 - 🌱 I’m currently learning Javascript and Kotlin ❤️
-- 😄 Pronouns: (er'sky) 🤔
+- 😄 Pronouns: (re'skii') 🤔
 - ⚡ Fun fact: can swim without glasses 😂
 
 
