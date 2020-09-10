@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 🌹
 
 
 **tomorisakura/tomorisakura**
 
 - 🅺 I’m Collage Student
 - 🅸 I’m currently learning Javascript and Kotlin
-- 🅻 Pronouns: (re'skii') 🤔
+- 🅻 Pronouns: (re'skii') / (再空)
 - 🅻 Fun fact: if 'm bored to write some code i choose to exploration ui design on <a href="https://dribbble.com/grevimsx">this</a> <br>
 
 
