@@ -3,12 +3,12 @@
 
 **tomorisakura/tomorisakura**
 
-- 🌺 𝘐’𝘮 𝘊𝘰𝘭𝘭𝘢𝘨𝘦 𝘚𝘵𝘶𝘥𝘦𝘯𝘵
-- 🌺 𝘗𝘳𝘰𝘯𝘰𝘶𝘯𝘴: (𝘳𝘦'𝘴𝘬𝘪𝘪') / (再空)
-
+- 🟦 **𝘊𝘰𝘭𝘭𝘢𝘨𝘦 𝘚𝘵𝘶𝘥𝘦𝘯𝘵**
+- 🟣 **𝘗𝘳𝘰𝘯𝘰𝘶𝘯𝘴: (𝘳𝘦'𝘴𝘬𝘪𝘪') / (再空)**
+___
 **Activity**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomorisakura&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomorisakura)
 
 **Currently Learn**
 
