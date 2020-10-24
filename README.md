@@ -15,6 +15,7 @@ ___
 ![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=flat-circle&logo=kotlin)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-circle&logo=Node.js)
+![Android](https://img.shields.io/badge/-Android-black?style=flat-circle&logo=Android)
 
 **Get in Touch 🧙**
 
