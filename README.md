@@ -3,9 +3,9 @@
 
 **tomorisakura/tomorisakura**
 
-- 🏫  currently: collage student
-- 😚  pronouns: (𝘳𝘦'𝘴𝘬𝘪𝘪') / (再空)
-- 🍿   Film: anime and k-drama
+- 🚀  Currently: collage student 
+- 😚  Pronouns: (𝘳𝘦'𝘴𝘬𝘪𝘪') / (再空)
+- 🎥  Film: anime and k-drama
 
 ![gif_anime](https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif)
 
@@ -35,5 +35,6 @@
 [![Dribble Badge](https://img.shields.io/badge/-Dribbble-black?style=flat-circle&logo=Dribbble&logoColor=white&link=https://dribbble.com/grevimsx)](https://dribbble.com/grevimsx)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-black?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/reskiaryanto)](https://twitter.com/reskiaryanto)
 [![DeviantArt Badge](https://img.shields.io/badge/-Deviantart-black?style=flat-circle&logo=Deviantart&logoColor=white&link=https://www.deviantart.com/hakureix)](https://www.deviantart.com/hakureix)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-black?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:xxkyoko18@gmail.com)](mailto:xxkyoko18@gmail.com)
 
 </details>
