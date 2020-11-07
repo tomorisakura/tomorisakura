@@ -4,8 +4,11 @@
 **tomorisakura/tomorisakura**
 
 - 🚀  Currently: collage student 
-- 😚  Pronouns: (𝘳𝘦'𝘴𝘬𝘪𝘪') / (再空)
-- 🎥  Film: anime and k-drama
+- 😚  Pronouns: (he/him) / (그)
+- 🌏  Native Indonesian speaker and little bit English (but i'm pretty confident with it ✌)
+- ✨  Fun fact: playing solitire, listening old school song
+- 🎥  Favorite: anime, tv-series and k-drama
+
 
 ![gif_anime](https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif)
 
@@ -18,7 +21,7 @@
 </details>
 
 <details>
-<summary><b>Stack 💎</b></summary>
+<summary><b>Currently Learn 💎</b></summary>
 <br>
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=flat-circle&logo=kotlin)
