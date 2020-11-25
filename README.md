@@ -4,11 +4,9 @@
 **tomorisakura/tomorisakura**
 
 - 🚀  Currently: collage student 
-- 😚  Pronouns: (he/him) / (그)
+- 🧙‍ Pronouns: (he/him) / (그)
 - 🌏  Native Indonesian speaker and little bit English (but i'm pretty confident with it ✌)
-- ✨  Fun fact: playing solitire, listening old school song
 - 🎥  Favorite: anime, tv-series and k-drama
-
 
 ![gif_anime](https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif)
 
@@ -32,7 +30,7 @@
 </details>
 
 <details>
-<summary><b>Get in Touch 🧙</b></summary>
+<summary><b>Get in Touch 🔥</b></summary>
 <br>
 
 [![Dribble Badge](https://img.shields.io/badge/-Dribbble-black?style=flat-circle&logo=Dribbble&logoColor=white&link=https://dribbble.com/grevimsx)](https://dribbble.com/grevimsx)
