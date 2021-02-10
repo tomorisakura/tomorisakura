@@ -3,10 +3,9 @@
 
 **tomorisakura/tomorisakura**
 
-- 🚀  Currently: collage student 
+- 🚀  Currently: Collage Student
 - 🧙‍ Pronouns: (he/him) / (그)
-- 🌏  Native Indonesian speaker and little bit English (but i'm pretty confident with it ✌)
-- 🎥  Favorite: anime, tv-series and k-drama
+- 🌏  Native Indonesian speaker and little bit English
 
 ![gif_anime](https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif)
 
