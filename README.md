@@ -11,8 +11,8 @@
 ```kotlin
 data class greeting(
   val 🚀 : String = "Junior Software Engineer",
-  val 🧙‍ : String = "그"
-  val 🌏 : String = "Indonesia"
+  val 🧙‍ : String = "그",
+  val 🌏 : String = "Indonesia",
 )
 
 ```
@@ -26,7 +26,7 @@ data class greeting(
 </details>
 
 <details>
-<summary><b>Get in Touch 🔥</b></summary>
+<summary><b>Get in Touch 💌</b></summary>
 <br>
 
 [![Dribble Badge](https://img.shields.io/badge/-Dribbble-black?style=flat-circle&logo=Dribbble&logoColor=white&link=https://dribbble.com/grevimsx)](https://dribbble.com/grevimsx)
