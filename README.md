@@ -9,7 +9,7 @@
 ### Hi there 🌹
 
 ```kotlin
-data class greetings(
+data class greeting(
   val 🚀 : String = "Junior Software Engineer",
   val 🧙‍ : String = "그"
   val 🌏 : String = "Indonesia"
