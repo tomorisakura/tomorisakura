@@ -1,10 +1,10 @@
 ![gif](https://64.media.tumblr.com/ddbd1bc29a57fd2b2b0c837745d77f3f/tumblr_nrmn7kLki51rcvimbo1_540.gif)
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-181717?style=for-the-badge&logo=Java)
 ![Js](https://img.shields.io/badge/-Javascript-181717?style=for-the-badge&logo=Javascript)
 ![Ts](https://img.shields.io/badge/-Typescript-181717?style=for-the-badge&logo=Typescript)
 ![Android](https://img.shields.io/badge/-Android-181717?style=for-the-badge&logo=Android)
-![Figma](https://img.shields.io/badge/-Figma-181717?style=for-the-badge&logo=Figma)
 
 ### Hi there 🌹
 
@@ -12,7 +12,7 @@
 data class greeting(
   val 🚀 : String = "Junior Software Engineer",
   val 🧙‍ : String = "그",
-  val 🌏 : String = "Indonesia",
+  val 🌏 : String = "Yogyakarta, Indonesia",
 )
 
 ```
