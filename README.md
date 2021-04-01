@@ -10,7 +10,7 @@
 
 ```kotlin
 data class greeting(
-  val 🚀 : String = "Junior Software Engineer",
+  val 🚀 : String = "Junior Software Developer",
   val 🧙‍ : String = "그",
   val 🌏 : String = "Yogyakarta, Indonesia",
 )
