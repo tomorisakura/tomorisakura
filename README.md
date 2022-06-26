@@ -29,7 +29,6 @@ data class greeting(
 <br>
 
 [![Dribble Badge](https://img.shields.io/badge/-Dribbble-black?style=flat-circle&logo=Dribbble&logoColor=white&link=https://dribbble.com/grevimsx)](https://dribbble.com/grevimsx)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-black?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/reskiaryanto)](https://twitter.com/reskiaryanto)
 [![DeviantArt Badge](https://img.shields.io/badge/-Deviantart-black?style=flat-circle&logo=Deviantart&logoColor=white&link=https://www.deviantart.com/hakureix)](https://www.deviantart.com/hakureix)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-black?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:xxkyoko18@gmail.com)](mailto:xxkyoko18@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat-circle&logo=LinkedIn&logoColor=white&link=mailto:xxkyoko18@gmail.com)](https://www.linkedin.com/in/grevi/)
